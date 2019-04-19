@@ -8,6 +8,7 @@
 <p>Currently, Quora uses a Random Forest model to identify duplicate questions. In this competition, Kagglers are challenged to tackle this natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. Doing so will make it easier to find high quality answers to questions resulting in an improved experience for Quora writers, seekers, and readers.</p>
 
 ## Data Description
+Downloads: https://drive.google.com/open?id=1kcBReWYgaliRDJHMwod3hxYTaLHBJMaU
 
  - Data will be in a file Train.csv
  - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
